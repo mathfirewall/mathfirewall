@@ -3,8 +3,7 @@
 ### Hi there 👋
 
 ## :star_struck: Thiago Araújo :star_struck:
-
-##### Desenvolvedor Back End Front End Mobile
+ Desenvolvedor Back End Front End Mobile
 
 
 ### Software Skills
