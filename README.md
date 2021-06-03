@@ -2,6 +2,8 @@
 
 ## Thiago Araújo
 
+###Desenvolvedor Back End Front End Mobile
+
 <!--
 **mathfirewall/mathfirewall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
