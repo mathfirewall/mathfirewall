@@ -6,6 +6,8 @@
 
 ##### Desenvolvedor Back End Front End Mobile
 
+
+### Software Skills
 <img src="https://github.com/mathfirewall/mathfirewall/blob/main/img/php.png" width="40" height="40"/>
 
 <!--
