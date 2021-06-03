@@ -6,7 +6,7 @@
 
 ##### Desenvolvedor Back End Front End Mobile
 
-<img src="https://github.com/mathfirewall/mathfirewall/blob/main/img/php.png"/>
+<img src="https://github.com/mathfirewall/mathfirewall/blob/main/img/php.png" width="40" height="40"/>
 
 <!--
 **mathfirewall/mathfirewall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
