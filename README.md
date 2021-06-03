@@ -1,4 +1,4 @@
-(https://github.com/mathfirewall/mathfirewall/blob/main/tecnologia.png)
+!(https://github.com/mathfirewall/mathfirewall/blob/main/tecnologia.png)
 
 ### Hi there 👋
 
