@@ -4,6 +4,7 @@
 
 ## :star_struck: Thiago Araújo :star_struck:
  Desenvolvedor Back End Front End Mobile
+           Manaus - AM
 
 
 ### Software Skills
