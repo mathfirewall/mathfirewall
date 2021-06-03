@@ -3,8 +3,8 @@
 ### Hi there 👋
 
 ## :star_struck: Thiago Araújo :star_struck:
-     ## Manaus - AM
- ## Desenvolvedor Back End Front End Mobile
+     ### Manaus-AM
+## Desenvolvedor Back End Front End Mobile
            
 
 
