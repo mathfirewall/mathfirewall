@@ -29,6 +29,8 @@
 
 
 ![Anurag GitHub stats](https://github-readme-stats.vercel.app/api?username=mathfirewall&show_icons=true&theme=algolia)
+![Anurag GitHub stats](https://github-readme-stats.vercel.app/api/toplangs/?username=mathfirewall&layout=compact&langs_count=16&theme=dracula)
+
 
 
 <!--
