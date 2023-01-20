@@ -28,8 +28,8 @@
 
 
 <div>
- <img width="350em" height="200em" src="https://github-readme-stats.vercel.app/api?username=mathfirewall&show_icons=true&theme=dracula"/>
- <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathfirewall&layout=compact&langs_count=16&theme=dark"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathfirewall&show_icons=true&theme=dracula"/>
+ <img width="350em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathfirewall&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 
