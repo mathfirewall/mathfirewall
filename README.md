@@ -4,7 +4,7 @@
 
 ## :star_struck: Thiago Araújo :star_struck:
      Manaus-AM
-     Desenvolvedor Back End Front End Mobile, Web e Desktop
+     Desenvolvedor  Mobile, Web e Desktop
            
 
 
